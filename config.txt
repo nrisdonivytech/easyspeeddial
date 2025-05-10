@@ -1,12 +1,12 @@
-contact1name: Hospital
-contact2name: Sarah
-contact3name: Joseph
-contact4name: ?
-contact1photo: hospital.png
-contact2photo: daughter.jpg
-contact3photo: son.jpg
-contact4photo: questionmark.png
-contact1phonenumber: 123-456-7890
-contact2phonenumber: 098-765-4321
-contact3phonenumber: 999-999-9999
-contact4phonenumber: 100-000-0000
+Hospital
+Sarah
+Joseph
+?
+hospital.png
+daughter.jpg
+son.jpg
+questionmark.png
+1234567890
+0987654321
+9999999999
+1000000000
